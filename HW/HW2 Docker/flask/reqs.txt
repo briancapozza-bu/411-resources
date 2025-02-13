@@ -1,0 +1,33 @@
+Agile:
+1. Complete these user stories:
+- As a vanilla git power-user that has never seen GiggleGit before, I want to understand the differences between GiggleGit and the popular 
+  alternative Git, in order to be able to quickly move through the new software.
+- As a team lead onboarding an experienced GiggleGit user, I want to create a comprehensive description of niche but useful features, in
+  order to improve the user's effectiveness when using the GiggleGit software.
+
+2. Create a third user story, one task for this user story, and two associated tickets.
+- User Story: As a new user, I want a sandbox environment where I can experiment with GiggleGit features without affecting real repositories in order to 
+  be able to learn the new software in a risk-free setting.
+- Task: Create a GiggleGit sandbox environment.
+- Ticket 1: Provide a default repository with interactive instructions guiding users through GiggleGit’s features.
+- Ticket 2: Implement a reset button that allows users to reset the sandbox to its original state to retry exercises from scratch.
+
+3. This is not a user story. Why not? What is it?
+- This is not a user story because it does not describe a goal or motivation. A good user story follows the "As a <specific actor>,
+  I want to <some action>, in order to <benefit>" format. This phrase only states functionality, not the reason behind it. This is just
+  a goal.
+
+Formal Requirements:
+1. List one goal and one non-goal
+- Goal: Ensure SnickerSync provides a fun experience by integrating snickers into the sync process.
+- Non-Goal: Implementing AI-driven joke generation for custom snickers during sync.
+
+2. Create two non-functional requirements.
+- Non-Functional Requirement 1: Security - Tiered Access Control
+- Non-Functional Requirement 2: Controlled User Studies
+
+3. For each non-functional requirement, create two functional requirements (for a grand total of four functional requirements). 
+- Functional Requirement 1.1: Provide PMs with a dedicated admin panel where they can create, modify, and remove snickering concepts.
+- Functional Requirement 1.2: Ensure that developers can only access test environments and not real user data from the live user studies.
+- Functional Requirement 2.1: Implement a system that automatically assigns users to control or experimental groups based on specific criteria.
+- Functional Requirement 2.2: Store user interactions and feedback securely to analyze engagement trends across different variants.
